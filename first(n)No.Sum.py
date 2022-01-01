@@ -1,4 +1,5 @@
-#while loop
+#First (n) numbers Sum Problem using python
+#Example:- first n=5 numbers Sum equal to 1+2+3+4+5 =15  
 n=int(input("Enter Some number:"))
 sum=0
 i=1
